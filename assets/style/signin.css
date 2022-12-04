@@ -1,0 +1,124 @@
+.signup-box {
+    width: 1060px;
+    height: 800px;
+    background: #ffff;
+    border-radius: 15px;
+    margin-top: 140px;
+    margin-left: 150px;
+    margin-bottom: 140px;
+}
+
+.signup-box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.signup-info {
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 88px;
+}
+
+.signup-info-title {
+    width: 355px;
+    font-size: 38px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 35px;
+}
+
+.signup-reg {
+    width: 400px;
+    margin-top: 100px;
+}
+
+.with-google {
+    width: 340px;
+    height: 50px;
+    border: 1px solid rgba(222, 221, 228, 1);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+
+.google-icon {
+    margin-left: 10px;
+}
+
+.google-text {
+    font-size: 14px;
+    font-weight: 400;
+    color: rgba(93, 90, 111, 1);
+    margin-left: 15px;
+}
+
+.email {
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.signup-form {
+    margin-top: 50px;
+}
+
+.label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 500;
+    font-size: 15px;
+    color: rgba(10, 3, 60, 1);
+}
+
+.checkbox-signup {
+    font-weight: 500;
+    font-size: 15px;
+    color: rgba(10, 3, 60, 1);
+    margin-bottom: 25px;
+}
+
+.label-input {
+    width: 370px;
+    height: 50px;
+    border-radius: 10px;
+    padding: 15px;
+    color: rgba(93, 90, 111, 1);
+    border: 1px solid rgba(222, 221, 228, 1);
+    margin-bottom: 20px;
+}
+
+.label-input:active {
+    border: 2px solid rgba(222, 221, 228, 1);
+}
+
+.checkbox-span {
+    color: rgba(93, 90, 111, 1);
+}
+
+.signup-btn {
+    display: block;
+    margin-top: 25px;
+    width: 370px;
+    height: 50px;
+    background: rgba(156, 77, 244, 1);
+    border: 1px solid rgba(156, 77, 244, 1);
+    border-radius: 10px;
+    color: #ffff;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+.form-bottom-text {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgba(93, 90, 111, 1);
+}
+
+.form-bottom-link {
+    text-decoration: none;
+    margin-left: 10px;
+    color: rgba(156, 77, 244, 1);
+}
