@@ -33,6 +33,7 @@
 }
 
 .with-google {
+    text-decoration: none;
     width: 340px;
     height: 50px;
     border: 1px solid rgba(222, 221, 228, 1);
